@@ -1,0 +1,9 @@
+
+# Ignore Jupyter notebook checkpoints
+
+.pynb_checkpoints/
+
+#Ignore Datasets
+
+/Data/Raw/*
+/Data/Processed/*
